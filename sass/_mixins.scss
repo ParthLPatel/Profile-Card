@@ -1,0 +1,11 @@
+@mixin font-400{
+    font-family: 'Kumbh Sans', sans-serif;
+    font-weight: 400;
+}
+
+@mixin font-700{
+    font-family: 'Kumbh Sans', sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    color: $dark-blue;
+}
